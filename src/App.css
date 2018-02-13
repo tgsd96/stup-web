@@ -1,0 +1,13 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.hdiv{
+    width: 60%;
+    margin: 10px auto;
+    float: left;
+    margin-left: 30px; 
+}
+.divider{
+    clear: both;
+    margin-top: 40px;
+}

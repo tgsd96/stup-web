@@ -1,0 +1,8 @@
+.eventForm{
+    width : 30%;
+    float: right;
+    padding: 10px;
+}
+.ant-input{
+    margin: 0 8px 8px 0;
+}
